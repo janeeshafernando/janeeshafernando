@@ -26,11 +26,11 @@
 <h3 align="left">♾️ Connect with me </h3>
 <br>
 <p align="left">
-<a href="https://dev.to/janeesha_fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="janeesha_fernando" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shalindijaneesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shalindijaneesha" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/25202565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25202565" height="30" width="40" /></a>
-<a href="https://instagram.com/shalindi_janeesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shalindi_janeesha" height="30" width="40" /></a>
-<a href="https://medium.com/@janeeshafernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@janeeshafernando" height="30" width="40" /></a>
+<a href="https://dev.to/janeesha_fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="janeesha_fernando" height="30" width="40" /> &nbsp;
+<a href="https://linkedin.com/in/shalindijaneesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shalindijaneesha" height="30" width="40" /> &nbsp;
+<a href="https://stackoverflow.com/users/25202565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25202565" height="30" width="40" /> &nbsp;
+<a href="https://instagram.com/shalindi_janeesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shalindi_janeesha" height="30" width="40" /> &nbsp;
+<a href="https://medium.com/@janeeshafernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@janeeshafernando" height="30" width="40" />
 </p>
 
 <hr>
