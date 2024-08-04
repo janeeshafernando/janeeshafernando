@@ -47,15 +47,20 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a> &nbsp;
+   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a> &nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a> &nbsp;
-  
+    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/615px-Vitejs-logo.svg.png?20220412224743" alt="vite" width="40" height="40"/>
+  </a> &nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a> &nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <a href="https://storybook.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/354397/storybook-icon.svg" alt="react-storybook" width="40" height="40"/>
   </a> &nbsp;
   </p>
 
@@ -64,6 +69,9 @@
    
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a> &nbsp;
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" alt="expressjs" width="40" height="40"/>
   </a> &nbsp;
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/932px-NestJS.svg.png?20221211225055" alt="nestjs" width="40" height="40"/>
@@ -94,21 +102,33 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a> &nbsp;
+  <a href="https://appwrite.io/" target="_blank" rel="noreferrer">
+    <img src="https://appwrite.io/assets/logomark/logo.png" alt="app-write" width="40" height="40"/>
+  </a> &nbsp;
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   </a> &nbsp;
   <a href="https://zapier.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
   </a> &nbsp;
+    <a href="https://excalidraw.com/" target="_blank" rel="noreferrer">
+    <img src="https://docs.excalidraw.com/img/logo.svg" alt="excalidraw" width="40" height="40"/>
+  </a> &nbsp;
 </p>
 
 <p align="left"> 
   <h4 align="left">📱 Mobile Development</h4>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a> &nbsp;
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/349488/react.svg" alt="reactnative" width="40" height="40"/>
+  </a> &nbsp;
+   <a href="https://expo.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/373591/expo.svg" alt="expo" width="40" height="40"/>
+  </a> &nbsp;
+    <a href="https://www.nativewind.dev/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/114648228?s=200&v=4" alt="native-wind" width="40" height="40"/>
+  </a> &nbsp;
+   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a> &nbsp;
 </p>
 
