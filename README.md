@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://janeesha-fernando.vercel.app/](https://janeesha-fernando.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://janeesha-fernando.vercel.app/](https://janeesha-fernando-lake.vercel.app)
 
 - 📫 How to reach me **shalindijaneesha77@gmail.com**
 
